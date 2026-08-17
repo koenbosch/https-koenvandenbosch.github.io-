@@ -18,7 +18,7 @@ Work in Progress
 #### [Optimal Time-Consistent Insurance Take-Up in Weather-Exposed Housing Markets]({{ site.url }}/files/jmp.pdf) <span class="paper-tag jmp">Job Market Paper</span>
 {: .paper-title}
 
-****Talks:**** ERIM PhD Seminar
+**Talks:** ERIM PhD Seminar
 {: .paper-meta}
 
 <details class="paper-abstract-toggle">
@@ -36,7 +36,7 @@ Work in Progress
 *with Christina Kolerus and Joana Pereira*
 {: .paper-coauthors}
 
-***Talks:*** Banque de France, Stockholm School of Economics, IMF
+**Talks:** Banque de France, Stockholm School of Economics, IMF
 {: .paper-meta}
 
 <details class="paper-abstract-toggle">
@@ -63,7 +63,7 @@ Working Papers
 *with Marta Szymanowska*
 {: .paper-coauthors}
 
-***Talks:*** Cunef University Madrid*, FMA Annual Meeting, French Finance Association Conference, Erasmus DoIP Seminar, Tri-City Bridge Workshop, ERIM PhD Seminar &nbsp;<small>(*presented by co-author)</small>
+**Talks:** Cunef University Madrid*, FMA Annual Meeting, French Finance Association Conference, Erasmus DoIP Seminar, Tri-City Bridge Workshop, ERIM PhD Seminar &nbsp;<small>(*presented by co-author)</small>
 {: .paper-meta}
 
 **&#9733; Award:** Semifinalist, FMA Annual Meeting Best Paper Award (2025)
