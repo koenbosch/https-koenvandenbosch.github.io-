@@ -8,6 +8,136 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__title:empty { display: none; }
+
+.paper-section-title {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 2.8rem 0 1.5rem 0;
+  line-height: 1.3;
+}
+
+.paper-title {
+  font-size: 1.28rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 1.9rem 0 0.4rem 0;
+  line-height: 1.4;
+}
+
+.paper-title a {
+  color: #1a56db;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(26, 86, 219, 0.35);
+}
+
+.paper-title a:hover {
+  color: #10399c;
+  border-bottom-color: #10399c;
+}
+
+.paper-tag {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-radius: 4px;
+  padding: 3px 10px;
+  margin-left: 8px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.paper-tag.jmp {
+  color: #b3261e;
+  background: #fdecec;
+  border: 1px solid rgba(179, 38, 30, 0.25);
+}
+
+.paper-tag.muted {
+  color: #666;
+  background: #f2f2f2;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.paper-coauthors {
+  font-size: 0.82rem;
+  font-style: italic;
+  color: #7a7a7a;
+  margin: 0.1rem 0;
+}
+
+.paper-meta {
+  font-size: 0.9rem;
+  color: #6e6e6e;
+  margin: 0.15rem 0;
+  line-height: 1.5;
+}
+
+.paper-meta strong {
+  color: #444;
+  font-weight: 600;
+}
+
+.paper-award {
+  font-size: 0.85rem;
+  color: #b3261e;
+  margin: 0.3rem 0;
+}
+
+.paper-abstract-toggle {
+  margin: 0.6rem 0 0 0;
+}
+
+.paper-abstract-toggle summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #1a56db;
+  list-style: none;
+}
+
+.paper-abstract-toggle summary::-webkit-details-marker {
+  display: none;
+}
+
+.paper-abstract-toggle summary::before {
+  content: "[ ";
+}
+
+.paper-abstract-toggle summary::after {
+  content: " ]";
+}
+
+.paper-abstract-toggle summary:hover {
+  color: #10399c;
+  text-decoration: underline;
+}
+
+.paper-abstract {
+  font-style: normal;
+  font-size: 0.88rem;
+  color: #444;
+  line-height: 1.6;
+  margin: 0.5rem 0 0 0.4rem;
+  padding-left: 0.7rem;
+  border-left: 2px solid #e5e5e5;
+}
+
+.paper-abstract p {
+  margin: 0;
+}
+
+.paper-divider {
+  border: none;
+  border-top: 1px solid #e5e5e5;
+  margin: 1.8rem 0 0 0;
+}
+</style>
+
 I am a PhD Candidate in Finance at the [Rotterdam School of Management, Erasmus University](https://www.rsm.nl/). My research interests are in insurance, climate finance, and demand-based asset pricing. I have been a PhD intern at the [International Monetary Fund](https://www.imf.org/) and a visiting PhD student at the [Stockholm School of Economics (House of Finance)](https://www.hhs.se/en/houseoffinance/).
 
 I am on the academic job market in 2026&ndash;2027.
