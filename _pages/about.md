@@ -15,7 +15,7 @@ I am on the academic job market in 2026&ndash;2027.
 Work in Progress
 {: .paper-section-title}
 
-#### [Optimal Time-Consistent Insurance Take-Up in Weather-Exposed Housing Markets]({{ site.url }}/files/jmp.pdf) <span class="paper-tag jmp">Job Market Paper</span>
+#### [A Theory of Optimal Disaster Insurance under Intermediary Constraints]({{ site.url }}/files/jmp.pdf) <span class="paper-tag jmp">Job Market Paper</span>
 {: .paper-title}
 
 **Talks:** ERIM PhD Seminar
