@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Finance at the [Rotterdam School of Management, Erasmus University](https://www.rsm.nl/). My research interests are in insurance, climate finance, and demand-based asset pricing. I have been a PhD intern at the [International Monetary Fund](https://www.imf.org/) and a visiting PhD student at the [Stockholm School of Economics (House of Finance)](https://www.hhs.se/en/houseoffinance/).
+I am a PhD Candidate in Finance at the [Rotterdam School of Management, Erasmus University](https://www.rsm.nl/). My research interests are in insurance, climate finance, and demand-based asset pricing. I was a PhD intern at the [International Monetary Fund](https://www.imf.org/) and visited the [Stockholm School of Economics (House of Finance)](https://www.hhs.se/en/houseoffinance/).
 
 I am on the academic job market in 2026&ndash;2027.
 
