@@ -1,0 +1,136 @@
+/* Custom styling for the homepage (About page hidden, papers section restyled). */
+
+/* Hide the auto-generated "About me" page heading. Front matter sets title
+   to an empty string, which leaves an empty <h1>; this removes it cleanly
+   so it doesn't leave stray spacing. */
+.page__title:empty {
+  display: none;
+}
+
+/* ---------- Section headers: Work in Progress / Working Papers / Policy Contributions ---------- */
+
+.paper-section-title {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 2.8rem 0 1.5rem 0;
+  line-height: 1.3;
+}
+
+/* ---------- Paper titles ---------- */
+
+.paper-title {
+  font-size: 1.28rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 1.9rem 0 0.4rem 0;
+  line-height: 1.4;
+}
+
+.paper-title a {
+  color: #1a56db;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(26, 86, 219, 0.35);
+}
+
+.paper-title a:hover {
+  color: #10399c;
+  border-bottom-color: #10399c;
+}
+
+/* ---------- Tags (Job Market Paper / Draft available / IMF Departmental Paper) ---------- */
+
+.paper-tag {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-radius: 4px;
+  padding: 3px 10px;
+  margin-left: 8px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+/* Job Market Paper: red, subtle box */
+.paper-tag.jmp {
+  color: #b3261e;
+  background: #fdecec;
+  border: 1px solid rgba(179, 38, 30, 0.25);
+}
+
+/* Other tags: neutral gray box */
+.paper-tag.muted {
+  color: #666;
+  background: #f2f2f2;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+/* ---------- Coauthors (smaller than everything else) ---------- */
+
+.paper-coauthors {
+  font-size: 0.82rem;
+  font-style: italic;
+  color: #7a7a7a;
+  margin: 0.1rem 0;
+}
+
+/* ---------- Talks / venue line ---------- */
+
+.paper-meta {
+  font-size: 0.9rem;
+  color: #6e6e6e;
+  margin: 0.15rem 0;
+  line-height: 1.5;
+}
+
+.paper-meta strong {
+  color: #444;
+  font-weight: 600;
+}
+
+.paper-award {
+  font-size: 0.85rem;
+  color: #b3261e;
+  margin: 0.3rem 0;
+}
+
+/* ---------- Collapsible abstract ---------- */
+
+.paper-abstract-toggle {
+  margin: 0.6rem 0 0 0;
+}
+
+.paper-abstract-toggle summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #444;
+  list-style: revert;
+}
+
+.paper-abstract-toggle summary:hover {
+  color: #1a56db;
+}
+
+.paper-abstract {
+  font-style: normal;
+  font-size: 0.88rem;
+  color: #444;
+  line-height: 1.6;
+  margin: 0.5rem 0 0 0.4rem;
+  padding-left: 0.7rem;
+  border-left: 2px solid #e5e5e5;
+}
+
+.paper-abstract p {
+  margin: 0;
+}
+
+/* thin divider between papers */
+.paper-divider {
+  border: none;
+  border-top: 1px solid #e5e5e5;
+  margin: 1.8rem 0 0 0;
+}
