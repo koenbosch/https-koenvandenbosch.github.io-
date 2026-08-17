@@ -11,11 +11,11 @@
 /* Largest, most visible element in the papers section. */
 
 .paper-section-title {
-  font-size: 2.1rem;
-  font-weight: 800;
-  color: #1a1a1a;
-  margin: 3.4rem 0 1.6rem 0;
-  line-height: 1.25;
+  font-size: 2.1rem !important;
+  font-weight: 800 !important;
+  color: #1a1a1a !important;
+  margin: 3.4rem 0 1.6rem 0 !important;
+  line-height: 1.25 !important;
 }
 
 /* ---------- Paper titles ---------- */
