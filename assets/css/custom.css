@@ -8,13 +8,14 @@
 }
 
 /* ---------- Section headers: Work in Progress / Working Papers / Policy Contributions ---------- */
+/* Largest, most visible element in the papers section. */
 
 .paper-section-title {
-  font-size: 1.7rem;
-  font-weight: 700;
+  font-size: 2.1rem;
+  font-weight: 800;
   color: #1a1a1a;
-  margin: 2.8rem 0 1.5rem 0;
-  line-height: 1.3;
+  margin: 3.4rem 0 1.6rem 0;
+  line-height: 1.25;
 }
 
 /* ---------- Paper titles ---------- */
@@ -23,19 +24,14 @@
   font-size: 1.28rem;
   font-weight: 700;
   color: #1a1a1a;
-  margin: 1.9rem 0 0.4rem 0;
+  margin: 2.4rem 0 0.4rem 0;
   line-height: 1.4;
 }
 
+/* No color override here on purpose: paper title links inherit the theme's
+   normal link color/style, so they match the bio links exactly. */
 .paper-title a {
-  color: #1a56db;
   text-decoration: none;
-  border-bottom: 1px solid rgba(26, 86, 219, 0.35);
-}
-
-.paper-title a:hover {
-  color: #10399c;
-  border-bottom-color: #10399c;
 }
 
 /* ---------- Tags (Job Market Paper / Draft available / IMF Departmental Paper) ---------- */
@@ -128,9 +124,5 @@
   margin: 0;
 }
 
-/* thin divider between papers */
-.paper-divider {
-  border: none;
-  border-top: 1px solid #e5e5e5;
-  margin: 1.8rem 0 0 0;
-}
+/* Papers are now separated by spacing alone (see .paper-title margin above) —
+   no horizontal rule between them. */
