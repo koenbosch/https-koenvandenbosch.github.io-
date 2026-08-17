@@ -1,9 +1,9 @@
 ---
-title: "MSc Thesis Supervision, Finance & Investments"
+title: "MSc Thesis Supervision, RSM MSc Finance & Investments"
 collection: teaching
-type: "Supervisor"
+type: ""
 permalink: /teaching/2022-09-01-msc-thesis-supervision
-venue: "Rotterdam School of Management, Erasmus University"
+venue: ""
 date: 2022-09-01
 location: "Rotterdam, the Netherlands"
 ---
