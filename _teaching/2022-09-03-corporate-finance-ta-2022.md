@@ -1,10 +1,10 @@
 ---
-title: "Corporate Finance"
+title: "Corporate Finance, MSc Finance & Investments"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2022-09-03-corporate-finance-ta-2022
-venue: "Rotterdam School of Management, Erasmus University"
+venue: ""
 date: 2022-09-03
-location: "Rotterdam, the Netherlands"
+location: ""
 ---
 Teaching assistant for the MSc course Corporate Finance.
