@@ -12,10 +12,10 @@ I am a PhD Candidate in Finance at the [Rotterdam School of Management, Erasmus 
 
 I am on the academic job market in 2026&ndash;2027.
 
-Work in Progress
+## Work in Progress
 {: .paper-section-title}
 
-#### [A Theory of Optimal Disaster Insurance under Intermediary Constraints]({{ site.url }}/files/jmp.pdf) <span class="paper-tag jmp">Job Market Paper</span>
+#### [Optimal Time-Consistent Insurance Take-Up in Weather-Exposed Housing Markets]({{ site.url }}/files/jmp.pdf) <span class="paper-tag jmp">Job Market Paper</span>
 {: .paper-title}
 
 **Talks:** ERIM PhD Seminar
@@ -50,7 +50,7 @@ Work in Progress
 *with Conrad Heilmann and Marta Szymanowska*
 {: .paper-coauthors}
 
-Working Papers
+## Working Papers
 {: .paper-section-title}
 
 #### [The Informational Role of Sustainable Investors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5183758)
@@ -72,7 +72,7 @@ Working Papers
 </div>
 </details>
 
-Policy Contributions
+## Policy Contributions
 {: .paper-section-title}
 
 #### Insuring against Natural Disasters <span class="paper-tag muted">IMF Departmental Paper</span>
