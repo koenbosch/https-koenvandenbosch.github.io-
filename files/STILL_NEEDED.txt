@@ -1,0 +1,13 @@
+cv.pdf is already included (from your uploaded CV).
+
+Still to add:
+- research_statement.pdf
+- jmp.pdf   (linked from _publications/2026-01-01-jmp-optimal-insurance-take-up.md)
+- informational_role_sustainable_investors.pdf   (linked from _publications/2025-01-01-informational-role-sustainable-investors.md)
+
+The other publication entries (Financial Stability..., Hiding in Plain Sight, IMF
+Departmental Paper) have paperurl set to '~' (blank) since no PDF/URL was given —
+once you have a draft or public link, open the matching file in _publications/ and
+replace the '~' after paperurl: with the URL, e.g. paperurl: '/files/policy_paper.pdf'
+
+Delete this file once everything is in place.
