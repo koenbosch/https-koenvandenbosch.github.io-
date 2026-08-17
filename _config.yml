@@ -22,7 +22,7 @@ repository               : "koenbosch/koenbosch.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name: "Koen van den Bosch"
-  avatar: "profile.jpeg"
+  avatar: "profile.jpg"
   bio: "PhD Candidate in Finance, Rotterdam School of Management, Erasmus University"
   location: "Rotterdam, the Netherlands"
   employer: "Erasmus University Rotterdam"
